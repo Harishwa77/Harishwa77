@@ -1,19 +1,24 @@
 # Harishwa A P
 
-## Software Engineer · Open Source Contributor
+Software engineer building AI systems, ML inference tooling, and retrieval pipelines. Preparing to contribute to open source through Google Summer of Code 2027.
 
-I build developer tools, automation systems, and AI-driven applications. I contribute to open source and prepare for Google Summer of Code.
+## Selected projects
 
-**Open source contributions**
-- [pint](https://github.com/hgrecco/pint) — units library (pull request #2421)
-- [sympy](https://github.com/sympy/sympy) — computer algebra system (in progress)
+- [llm-inference-optimization-engine](https://github.com/Harishwa77/llm-inference-optimization-engine) LLM inference engine in Python/PyTorch: KV cache, paged attention, continuous batching, INT4/INT8 quantization, Triton kernels, FastAPI serving
+- [CRAG](https://github.com/Harishwa77/CRAG) Corrective RAG for literature intelligence: hybrid retrieval, embedding benchmarking, cross-encoder reranking, agentic web fallback with inline citations
+- [PawPulse](https://github.com/Harishwa77/sih) Multimodal animal health platform (Smart India Hackathon): CV pose estimation, lesion segmentation, XAI, edge deployment
+- [scalar-rl-env](https://github.com/Harishwa77/scalar-rl-env) OpenEnv-compliant RL environment for LLM-driven e-commerce return decisions
+- [EduSense AI](https://github.com/Harishwa77/childedu) Next.js 15 platform with Genkit AI for early-childhood education (TypeScript)
 
-**Interests**
-- Python / TypeScript
-- Machine learning & retrieval (RAG, CRAG, embedding benchmarking)
-- Automation & workflow tooling
-- Numerical computing
+## Open source contributions
 
-## Connect
+- [pint](https://github.com/hgrecco/pint), units library, PR #2421
+- [sympy](https://github.com/sympy/sympy), computer algebra system, work in progress
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/harishwa-a-p/)
+## Interests
+
+Python / TypeScript, LLM inference and optimization, RAG / CRAG, computer vision, numerical computing, open source.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/harishwa-a-p/)
