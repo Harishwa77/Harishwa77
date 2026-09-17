@@ -21,4 +21,4 @@ Python / TypeScript, LLM inference and optimization, RAG / CRAG, computer vision
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/harishwa-a-p/)
+[Portfolio](https://harishwa77.github.io/) - [LinkedIn](https://www.linkedin.com/in/harishwa-a-p/)
