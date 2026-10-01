@@ -1,7 +1,6 @@
 # Harishwa A P
 
-Software engineer building AI systems, ML inference tooling, and retrieval pipelines. Preparing to contribute to open source through Google Summer of Code 2027.
-
+Software engineer building AI systems, ML inference tooling, and retrieval pipelines.
 ## Selected projects
 
 - [llm-inference-optimization-engine](https://github.com/Harishwa77/llm-inference-optimization-engine) LLM inference engine in Python/PyTorch: KV cache, paged attention, continuous batching, INT4/INT8 quantization, Triton kernels, FastAPI serving
